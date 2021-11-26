@@ -40,6 +40,10 @@ body {
 	font-size: 0.46em;
 }
 
+.w-50 {
+    width: 50%!important;
+}
+
 .pause-btn {
 	position: fixed;
 	top: 0;
